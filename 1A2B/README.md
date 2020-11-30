@@ -1,3 +1,4 @@
+```
 import random
 items = [i for i in range(0, 10)]   # 將0到9依序放入items
 random.shuffle(items)               # 打亂items順序
@@ -25,3 +26,4 @@ while 1:
     print(a, "A", b, "B")
     a = 0                           # a重置為0
     b = 0                           # b重置為0
+```
