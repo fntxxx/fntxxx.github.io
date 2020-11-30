@@ -4,7 +4,7 @@ random.shuffle(items)               # 打亂items順序
 answer = ""
 for i in range(4):                  # 將items前四個數字放入前四個數字放入answer
     answer += str(items[i])
-print("正確答案為:", answer)
+# print("正確答案為:", answer)
 a = 0                               # a預設為0
 b = 0                               # b預設為0
 while 1:
