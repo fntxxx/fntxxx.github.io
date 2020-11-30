@@ -1,4 +1,4 @@
-#1A2B程式碼
+# 1A2B程式碼
 ```
 import random
 items = [i for i in range(0, 10)]   # 將0到9依序放入items
@@ -28,5 +28,5 @@ while 1:
     a = 0                           # a重置為0
     b = 0                           # b重置為0
 ```
-#1A2B執行圖
+# 1A2B執行圖
 ![1A2B程式執行](https://github.com/fntxxx/fntxxx.github.io/blob/master/1A2B/1A2B%E7%A8%8B%E5%BC%8F%E5%9F%B7%E8%A1%8C.jpg)
