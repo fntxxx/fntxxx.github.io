@@ -47,8 +47,6 @@ while True:
 ![1A2B3程式執行1](https://github.com/fntxxx/fntxxx.github.io/blob/master/1A2B/1A2B%E7%A8%8B%E5%BC%8F%E5%9F%B7%E8%A1%8C/1A2B3%E7%A8%8B%E5%BC%8F%E5%9F%B7%E8%A1%8C1.jpg)
 ![1A2B3程式執行2](https://github.com/fntxxx/fntxxx.github.io/blob/master/1A2B/1A2B%E7%A8%8B%E5%BC%8F%E5%9F%B7%E8%A1%8C/1A2B3%E7%A8%8B%E5%BC%8F%E5%9F%B7%E8%A1%8C2.jpg)
 
-
-
 # 1A2B2程式碼－－人出題，電腦猜
 ```
 from itertools import permutations
@@ -99,8 +97,6 @@ while True:
 ![1A2B2程式執行4](https://github.com/fntxxx/fntxxx.github.io/blob/master/1A2B/1A2B%E7%A8%8B%E5%BC%8F%E5%9F%B7%E8%A1%8C/1A2B2%E7%A8%8B%E5%BC%8F%E5%9F%B7%E8%A1%8C4.jpg)
 ![1A2B2程式執行5](https://github.com/fntxxx/fntxxx.github.io/blob/master/1A2B/1A2B%E7%A8%8B%E5%BC%8F%E5%9F%B7%E8%A1%8C/1A2B2%E7%A8%8B%E5%BC%8F%E5%9F%B7%E8%A1%8C5.jpg)
 ![1A2B2程式執行6](https://github.com/fntxxx/fntxxx.github.io/blob/master/1A2B/1A2B%E7%A8%8B%E5%BC%8F%E5%9F%B7%E8%A1%8C/1A2B2%E7%A8%8B%E5%BC%8F%E5%9F%B7%E8%A1%8C6.jpg)
-
-
 
 # 1A2B程式碼－－電腦出題，人猜
 ```
