@@ -35,8 +35,7 @@ while True:
     score = scorecalc(enterNum, corAns)
     print("第 %i 猜是 %*s， (A, B)： %s"
           % (fre, size, ''.join(ans), score))
-    found = score == (size, 0)
-    if found:
+    if score == (size, 0):
         print("答得真好!")
         break
     choices = [c for c in choices if scorecalc(c, ans) == score]
